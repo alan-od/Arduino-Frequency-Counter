@@ -3,8 +3,7 @@
 Introduction:
 
 This project was designed as a construction exercise for members of the Crystal Palace Radio club in South London.
-
-The design goals were
+The design goals were:
 
 	Low Cost
 	Ease of construction
