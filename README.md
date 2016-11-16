@@ -18,7 +18,7 @@ To enable club members to build the device it was necessary to develop a suitabl
 
 Performance:
 
-The prototype used HC series logic and I found that using such chips the highest frequency that could be measured was around 75MHz. I then found that RS Components could source 74AC393 and 74AC00 chips in DIL packages made by Toshiba. Substituting the 74HC393 for a Toshiba 74AC393 increased the high frequency performance to 115MHz. At the low end the frequency counter could measure 500Hz, although its low frequency performance may be better I don't have the necessary equipment to test it.
+The prototype used HC series logic and I found that using such chips the highest frequency that could be measured was around 75MHz. I then found that RS Components could source 74AC393 and 74AC00 chips in DIL packages made by Toshiba. Substituting the 74HC393 for a Toshiba 74AC393 increased the high frequency performance to 115MHz. At the low end the frequency counter could measure 500Hz, although its low frequency performance may be better it couldn't be tested due to lack of suitable equipment.
 
 Tooling:
 
