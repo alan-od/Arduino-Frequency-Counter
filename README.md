@@ -10,7 +10,7 @@ The design goals were:
 	Easily Programmed
 	Good Performance
 
-To achieve the goals of low cost and ease of programming the design was based around an Arduino Nano which are cheaply available from China via Ebay and can be easily programmed using the Arduino IDE (integrated development environment) using a USB connection to a suitable PC.
+To achieve the goals of low cost and ease of programming the design was based around an Arduino Nano which are cheaply available through Ebay and can be easily programmed using the Arduino IDE (integrated development environment) using a USB connection to a suitable PC.
 
 The performance of a frequency counter is determined by the accuracy and stability of the reference clock used within the device, as a minimum the clock should be crystal controlled and ideally the crystal should be temperature controlled (TXCO). In this design the clock source is provided by a DS3231 RTC (real time clock) module which is available cheaply from Ebay. The DS3231 integrates a TXCO onto a chip and was designed as a high accuracy clock for use within devices that require time and date information. The DS3231's crystal oscillator runs at 32KHz and by judicious programming a 1Hz signal can be produced from one of its pins, it's this pulse that's used as the reference time source within this design.
 
