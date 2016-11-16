@@ -5,11 +5,16 @@ Introduction:
 This project was designed as a construction exercise for members of the Crystal Palace Radio club
 in South London.
 
+Is there
+
 The design goals were:
-        Low Cost
-        Ease of construction
-        Easily Programmed
-        Good Performance
+
+
+
+Low Cost
+Ease of construction
+Easily Programmed
+Good Performance
 
 To achieve the goals of low cost and ease of programming the design was based around an Arduino
 Nano which are cheaply available from China via Ebay and can be easily programmed using the
