@@ -4,7 +4,7 @@ I eventually managed to get the Prescaler working but it was hard work!  I purch
 
 After some time I ordered a few MC12080's from a Hong Kong supplier.  This time the chips had different markings so I thought they would be okay.  After soldering the chip onto the board, under test it exhibited exactly the same response as had the first chip i.e. it divided by 2 not 10.  Again the chips were just over $1 dollar each.
 
-Eventually I purchased a MC12080 from a UK supplier. This time the chip cost £4.50 (~$5).  I soldered the chip onto the board and this time it divided the input frequency by 10 and up to 1GHz. It may work at an even higher frequencies but my signal generator doesn't go beyond 1GHz.
+Eventually I purchased a MC12080 from a UK supplier. This time the chip cost £4.50 (~$5).  I soldered the chip onto the board and this time it worked correctly dividing the input frequency by 10 and up to 1GHz. It may work at higher frequencies but my signal generator doesn't go beyond 1GHz.
 
 So in conclusion it looks as if the far eastern market is awash with fake and reject MC12080s. Also the suppliers of these chips probably don't even know their selling sub-standard goods.  Buyer beware!
 
