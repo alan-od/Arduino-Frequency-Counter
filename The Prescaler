@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 5.0.3.2 (Linux)"/>
+	<meta name="author" content="alan "/>
+	<meta name="created" content="2016-12-01T10:50:07.282266035"/>
+	<meta name="changedby" content="alan "/>
+	<meta name="changed" content="2016-12-01T11:22:45.639756098"/>
+	<style type="text/css">
+		@page { margin: 2cm }
+		p { margin-bottom: 0.25cm; line-height: 120% }
+		a:link { so-language: zxx }
+	</style>
+</head>
+<body lang="en-GB" dir="ltr">
+<p style="margin-bottom: 0cm; line-height: 100%">The MC12080
+Prescaler</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">I eventually managed
+to get the Prescaler working but it was hard work!  I purchased a
+number of MC12080 chips from a Chinese supplier, they were very
+cheap, about $1 each with the thought that members of the radio club
+could upgrade their frequency counters at a later date. I soldered
+the chip into my prototype board and tested the counter.  The chip
+divided the input frequency, but it divided the frequency by 2 not
+10.</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">After some time I
+ordered a few MC12080's from a Hong Kong supplier.  This time the
+chips had different markings so I thought they would be okay.  After
+soldering the chip onto the board, under test it exhibited exactly
+the same response as had the first chip i.e. it divided by 2 not 10. 
+Again the chips were just over $1 dollar each.</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">Eventually I
+purchased a MC12080 from a UK supplier. This time the chip cost £4.50
+(~$5).  I soldered the chip onto the board and this time it divided
+the input frequency by 10 and up to 1GHz. It may work at an even
+higher frequencies but my signal generator doesn't go beyond 1GHz.</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%">So in conclusion it
+looks as if the far eastern market is awash with fake and reject
+MC12080s. Also the suppliers of these chips probably don't even know
+their selling sub-standard goods.  Buyer beware!</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+<p style="margin-bottom: 0cm; line-height: 100%"><br/>
+
+</p>
+</body>
+</html>
