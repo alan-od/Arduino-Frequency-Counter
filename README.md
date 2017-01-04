@@ -29,8 +29,8 @@ The PCB was developed using KiCad and the files are available under the hardware
 
 The software was developed using the Arduino IDE, all source code is included along with documentation. Currently the source code is around 1000 lines and due to its size I have divided it into a number of modules and header files. For users to compile the programme it will be necessary for them to include the Arduino library for the DS3231. Ideally I would have used a different software tool set, however I deliberately used the Arduino IDE so as to allow other users to easily import the software files into the Arduino IDE.
 
-**General:
-**
+**General**:
+
 No originality is claimed for the design as I have taken ideas from many sources. The majority of the software is original although a few algorithms have been taken from other sources and where I have done so I have tried to acknowledge those for their work.
 
 *Alan
