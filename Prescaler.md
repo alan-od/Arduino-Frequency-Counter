@@ -1,4 +1,4 @@
-The MC12080 Prescaler
+##The MC12080 Prescaler
 
 I eventually managed to get the Prescaler working but it was hard work!  I purchased a number of MC12080 chips from a Chinese supplier, they were very cheap about $1 each with the thought that members of the radio club could upgrade their frequency counters at a later date. I soldered a chip on to my prototype board and tested the counter.  The chip divided the input frequency okay, but it divided it by 2 not 10!
 
