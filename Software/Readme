@@ -1,7 +1,0 @@
-Information on Software Files
-
-The directory, Frequency_counter_v0.2 with all its files should be downloaded to your Arduino work folder and opening just one of the files should load all the required files into the Arduino IDE work space.
-
-The software version v0.2 provides most of the functionality needed for the frequency counter to function correctly.  A number of frequency counters using this software have been built and all have worked as expected.  The functionality currently provided allows for selection of the normal input and the prescaler input, the "auto" position which is available on the menu system is not yet implemented. Note that when the prescaler is selected the software multiplies the displayed frequency by 10. If the prescaler is not included in the hardware build then of course the input selection software is of no consequence. It may be preferable to have two software loads one for a single input counter and another to take account of the prescaler.
-
- 
