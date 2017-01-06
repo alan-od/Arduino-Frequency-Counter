@@ -84,7 +84,8 @@ SW1 SW2 SW3					Push switches (3)
 
 **Step 8 - Display**
 
-Important
+***Important***
+
 Prior to soldering the display use insulating tape to protect the circuit board (see photo).  Note the display is mounted on the underside of the board.
 
 DS1							2 x 16 LCD module (1)
