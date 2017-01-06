@@ -27,7 +27,7 @@ The prototype used HC series logic and I found that using such chips the highest
 
 The PCB was developed using KiCad and the files are available under the hardware directory along with documentation pertaining to the circuit design.
 
-The software was developed using the Arduino IDE, all source code is included along with documentation. Currently the source code is around 1000 lines and due to its size I have divided it into a number of modules and header files. For users to compile the programme it will be necessary for them to include the Arduino library for the DS3231. Ideally I would have used a different software tool set, however I deliberately used the Arduino IDE so as to allow other users to easily import the software files into the Arduino IDE.
+The software was developed using the Arduino IDE, all source code is included along with documentation. Currently the source code is around 1000 lines and due to its size I have divided it into a number of modules and header files. For users to compile the programme it will be necessary for them to include the Arduino library for the DS3231. Ideally I would have used a different software tool set, however I deliberately chose to stay with the Arduino IDE so as to allow others to easily import the software files into this development environment.
 
 **General**:
 
