@@ -37,7 +37,7 @@ The software was developed using the Arduino IDE, all source code is included al
 
 Originally twenty boards were manufactured most of which were bought by members of the Crystal Palace Radio and Electronic Club (CPREC) and the Bromley and District Amateur Radio Society (BDARS). I was contacted by Alan VK5ZFJ who was interested in using the frequency counter as a project for the Crawley Amateur Radio Club (CARC). As more boards were required and following discussions with Alan I redesigned the board layout correcting a few problems with the original, reducing the board size. moving the Arduino to the edge of the board to ease the connection of a USB plug when the unit is boxed plus a number of other cosmetic upgrades.
 
-![pics]/Hardware/pics.jpgs)
+![pics](/Hardware/pics.jpgs)
 
 
 **General**:
